@@ -1,7 +1,7 @@
 # Hi, I’m a first-year engineering student at IMT Atlantique 👋
 
-I’m interested in **Machine Learning, applied mathematics, optimization, and modeling**, with a focus on building rigorous prototypes and simulation-based projects.  
-Below are selected projects developed in **Python**.
+I’m interested in **Machine Learning, applied mathematics, optimization, and modeling**.  
+Below are selected projects developed mainly in **Python**.
 
 ---
 
@@ -13,7 +13,7 @@ Below are selected projects developed in **Python**.
 - Developed a **thermal simulator for CPUs** based on physical heat transfer models.
 - Implemented **geometric optimization of heat dissipation blocks**.
 - Evaluated design choices through numerical simulations.
-- Objective: improve thermal dissipation and justify results quantitatively.
+- Objective: improve thermal dissipation and justify results quantitatively in order to extend the lifespan of CPUs.
 
 **Keywords:** thermal modeling, numerical simulation, optimization, physics-based modeling
 
