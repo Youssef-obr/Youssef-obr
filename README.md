@@ -8,7 +8,6 @@ Below are a few projects i've developed mainly in **Python**.
 
 ##  Projects
 
----
 ###  No-Show Prediction Model (Healthcare Startup Prototype)
 
 - Built a **no-show prediction model** for a women’s healthcare startup.
