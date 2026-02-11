@@ -31,6 +31,8 @@ Below are a few projects i've developed mainly in **Python**.
 
 **Keywords:** thermal modeling, numerical simulation, optimization, physics-based modeling
 
+[View Repository](https://github.com/Youssef-obr/CPU-Thermal-Simulation.git)
+
 ---
 
 ###  3D Reconstruction from Images (Mobile Application) [In Progress]
