@@ -21,6 +21,20 @@ Below are a few projects i've developed mainly in **Python**.
 
 ---
 
+### 3D Reconstruction from Images — Photogrammetry
+
+Developed a Python photogrammetry pipeline to reconstruct 3D point clouds from multiple images.
+
+- Implemented a relative-orientation approach using SIFT matching, RANSAC filtering, camera pose estimation and triangulation.
+- Reconstructed several real scenes, including a pyramid, stairs and a topographic map.
+- Evaluated the pyramid reconstruction after scale alignment, with an average relative error of about **2.47%**.
+- Also validated the geometric pipeline with absolute orientation which allows 'precise' measurement and tested LoFTR to improve matching on difficult images.
+
+Keywords: photogrammetry, 3D reconstruction, relative orientation, SIFT, RANSAC, LoFTR, triangulation
+
+---
+
+
 ###  Thermal Simulation & CPU Geometry Optimization (TIPE)
 
 
@@ -32,18 +46,6 @@ Below are a few projects i've developed mainly in **Python**.
 **Keywords:** thermal modeling, numerical simulation, optimization, physics-based modeling
 
 [View Repository](https://github.com/Youssef-obr/CPU-Thermal-Simulation.git)
-
----
-
-###  3D Reconstruction from Images (Mobile Application) [In Progress]
-
-- Developed a prototype application that:
-  - Converts multiple images into a **3D scan**.
-  - Generates a **3D model from a single image** by using LLM-generated views from additional angles.
-- Pipeline combines image processing, geometry reconstruction, and generative modeling.
-
-**Keywords:** computer vision, 3D reconstruction
-
 
 
 ---
