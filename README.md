@@ -30,7 +30,9 @@ Developed a Python photogrammetry pipeline to reconstruct 3D point clouds from m
 - Evaluated the pyramid reconstruction after scale alignment, with an average relative error of about **2.47%**.
 - Also validated the geometric pipeline with absolute orientation which allows 'precise' measurement and tested LoFTR to improve matching on difficult images.
 
-Keywords: photogrammetry, 3D reconstruction, relative orientation, SIFT, RANSAC, LoFTR, triangulation
+**Keywords:** photogrammetry, 3D reconstruction, relative orientation, SIFT, RANSAC, LoFTR, triangulation
+
+[View Repository](https://github.com/Youssef-obr/3d-reconstruction-photogrammetry.git)
 
 ---
 
