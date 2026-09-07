@@ -40,6 +40,8 @@ Built an ML prototype for a **women’s healthcare startup** to estimate appoint
 
 **ML skills:** classification · feature engineering · probability estimation · decision thresholds · model interpretation · applied ML prototyping
 
+*Repository coming soon.*
+
 ---
 
 ### 3D Reconstruction from Images — Photogrammetry
