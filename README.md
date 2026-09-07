@@ -34,11 +34,11 @@ Built and compared classical ML models for learning the time evolution of the vi
 
 ---
 
-### No-Show Prediction Model
+### Healthcare Startup Prototype — No-Show Prediction
 
-Built a healthcare **classification model** that estimates appointment no-show probability and integrated it into a conversational prototype.
+Built an ML prototype for a **women’s healthcare startup** to estimate appointment no-show probability and integrate the prediction into a conversational workflow.
 
-**ML skills:** classification · feature engineering · probability estimation · decision thresholds · model interpretation
+**ML skills:** classification · feature engineering · probability estimation · decision thresholds · model interpretation · applied ML prototyping
 
 ---
 
