@@ -13,24 +13,20 @@ I’m a **second-year engineering student at IMT Atlantique** interested in **Ma
 - Compared **Kernel Ridge, Ridge, ExtraTrees, and Random Forests** and analyzed residuals using held-out tests, geometric diagnostics, negative controls, and spectral analysis.
 - Developed a learned correction and evaluated it on one-step prediction and recursive rollout.
 
-**Status:** Accepted at **ML4PS 2026**.
+**Status:** Accepted at **ML4PS 2026.
 
-**ML skills:** kernel methods · ensemble methods · regression · cross-fitting · PCA · gradient boosting · residual analysis · model evaluation
+**ML skills:** kernel methods · ensemble methods · regression · residual analysis · model evaluation
 
 [View Paper Repository](https://github.com/Youssef-obr/structured-extrema-burgers)
 
 ---
 
-### Non-stationary Ocean Sensor Placement
+### Non-stationary Covariance Learning for Ocean Sensor Placement
 
-Explored extensions to a differentiable sensor-placement framework for **Sea Surface Height reconstruction** using Optimal Interpolation.
+- **Research extension of Chapron, Fablet & Stéphan's differentiable Gumbel-Softmax sensor-placement framework**, investigating whether richer covariance geometry improves ocean-state reconstruction.
+- Developed global anisotropic and learned non-stationary covariance formulations; on 25 NATL60 states, the latter reduced RMSE from **0.1123 m to 0.0696 m (~38%)** relative to the reproduced isotropic baseline.
 
-- Reproduced the isotropic covariance baseline from the original work.
-- Added a **global anisotropic covariance** using a learned Mahalanobis geometry.
-- Added a **learned non-stationary covariance geometry** where the effective spatial metric varies across the domain.
-- On the 25-state NATL60 experiment, the non-stationary model reduced RMSE from **0.1123 m to 0.0696 m**, a reduction of about **38%** relative to the isotropic baseline.
-
-**ML skills:** data assimilation · differentiable optimization · Gumbel-Softmax · covariance modeling · anisotropic kernels · non-stationary geometry · PyTorch · ocean-state reconstruction
+**Research areas:** data assimilation · covariance learning · differentiable optimization
 
 [View Repository](https://github.com/Youssef-obr/nonstationary-ocean-sensor-placement)
 
@@ -43,7 +39,7 @@ Built and compared classical ML models for learning the time evolution of the vi
 - Tested **linear/polynomial regression, RBF Kernel Ridge, gradient-boosting residual correction**, model selection, ablations, and recursive rollout.
 - Evaluated generalization, error accumulation, and inference speed against a numerical PDE solver.
 
-**ML skills:** supervised learning · regression · regularization · kernels · feature mappings · gradient boosting · validation · hyperparameter selection · ablation studies
+**ML skills:** supervised learning · regression · regularization · kernels · gradient boosting · validation
 
 [View Repository](https://github.com/Youssef-obr/pde-surrogate-learning)
 
@@ -53,7 +49,7 @@ Built and compared classical ML models for learning the time evolution of the vi
 
 Built an ML prototype for a **women’s healthcare startup** to estimate appointment no-show probability and integrate the prediction into a conversational workflow.
 
-**ML skills:** classification · feature engineering · probability estimation · decision thresholds · model interpretation · applied ML prototyping
+**ML skills:** classification · feature engineering · probability estimation · model interpretation
 
 *Repository coming soon.*
 
@@ -63,7 +59,7 @@ Built an ML prototype for a **women’s healthcare startup** to estimate appoint
 
 Built a Python pipeline for 3D reconstruction from multiple images using feature matching, camera-pose estimation, and triangulation.
 
-**Skills:** computer vision · SIFT · RANSAC · LoFTR · geometric estimation · 3D reconstruction
+**Skills:** computer vision · SIFT · RANSAC · LoFTR · 3D reconstruction
 
 [View Repository](https://github.com/Youssef-obr/3d-reconstruction-photogrammetry)
 
