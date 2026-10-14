@@ -13,11 +13,26 @@ I’m a **second-year engineering student at IMT Atlantique** interested in **Ma
 - Compared **Kernel Ridge, Ridge, ExtraTrees, and Random Forests** and analyzed residuals using held-out tests, geometric diagnostics, negative controls, and spectral analysis.
 - Developed a learned correction and evaluated it on one-step prediction and recursive rollout.
 
-**Status:** Submitted to **XAI4Science @ NeurIPS 2026** and **ML4PS** — under review.
+**Status:** Accepted at **ML4PS 2026**.
 
 **ML skills:** kernel methods · ensemble methods · regression · cross-fitting · PCA · gradient boosting · residual analysis · model evaluation
 
 [View Paper Repository](https://github.com/Youssef-obr/structured-extrema-burgers)
+
+---
+
+### Non-stationary Ocean Sensor Placement
+
+Explored extensions to a differentiable sensor-placement framework for **Sea Surface Height reconstruction** using Optimal Interpolation.
+
+- Reproduced the isotropic covariance baseline from the original work.
+- Added a **global anisotropic covariance** using a learned Mahalanobis geometry.
+- Added a **learned non-stationary covariance geometry** where the effective spatial metric varies across the domain.
+- On the 25-state NATL60 experiment, the non-stationary model reduced RMSE from **0.1123 m to 0.0696 m**, a reduction of about **38%** relative to the isotropic baseline.
+
+**ML skills:** data assimilation · differentiable optimization · Gumbel-Softmax · covariance modeling · anisotropic kernels · non-stationary geometry · PyTorch · ocean-state reconstruction
+
+[View Repository](https://github.com/Youssef-obr/nonstationary-ocean-sensor-placement)
 
 ---
 
