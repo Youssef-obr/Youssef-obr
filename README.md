@@ -13,7 +13,7 @@ I’m a **second-year engineering student at IMT Atlantique** interested in **Ma
 - Compared **Kernel Ridge, Ridge, ExtraTrees, and Random Forests** and analyzed residuals using held-out tests, geometric diagnostics, negative controls, and spectral analysis.
 - Developed a learned correction and evaluated it on one-step prediction and recursive rollout.
 
-**Status:** Accepted at **ML4PS 2026.
+**Status:** Accepted at **ML4PS 2026**.
 
 **ML skills:** kernel methods · ensemble methods · regression · residual analysis · model evaluation
 
@@ -23,8 +23,8 @@ I’m a **second-year engineering student at IMT Atlantique** interested in **Ma
 
 ### Non-stationary Covariance Learning for Ocean Sensor Placement
 
-- **Research extension of Chapron, Fablet & Stéphan's differentiable Gumbel-Softmax sensor-placement framework**, investigating whether richer covariance geometry improves ocean-state reconstruction.
-- Developed global anisotropic and learned non-stationary covariance formulations; on 25 NATL60 states, the latter reduced RMSE from **0.1123 m to 0.0696 m (~38%)** relative to the reproduced isotropic baseline.
+- **Research extension of Chapron, Fablet & Stéphan’s differentiable sensor-placement framework**, studying whether richer spatial covariance models improve reconstruction of ocean surface states from sparse observations.
+- Developed global anisotropic and learned non-stationary covariance formulations; on 25 ocean states sampled across a year, the non-stationary model reduced RMSE from **0.1123 m to 0.0696 m (~38%)** relative to the reproduced isotropic baseline.
 
 **Research areas:** data assimilation · covariance learning · differentiable optimization
 
