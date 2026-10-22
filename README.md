@@ -21,15 +21,14 @@ I’m a **second-year engineering student at IMT Atlantique** interested in **Ma
 
 ---
 
-### Non-stationary Covariance Learning for Ocean Sensor Placement
+### Differentiable Ocean Sensing — Sensor Placement & Data Assimilation
 
-- **Research extension of Chapron, Fablet & Stéphan’s differentiable sensor-placement framework**, studying whether richer spatial covariance models improve reconstruction of ocean surface states from sparse observations.
-- Developed global anisotropic and learned non-stationary covariance formulations; on 25 ocean states sampled across a year, the non-stationary model reduced RMSE from **0.1123 m to 0.0696 m (~38%)** relative to the reproduced isotropic baseline.
+- Extended **Chapron, Fablet & Stéphan's differentiable Gumbel-Softmax sensor-placement framework**, combining **Optimal Interpolation (OI)** with learned **anisotropic and non-stationary covariance kernels** for sparse Sea Surface Height (SSH) reconstruction.
+- On **25 NATL60 ocean states**, achieved **38% lower RMSE** than the isotropic baseline. Evaluated robustness under **six forecast-error types and three severity levels**, maintaining an average **33% RMSE improvement** over the isotropic baseline.
 
-**Research areas:** data assimilation · covariance learning · differentiable optimization
+**Research areas:** data assimilation · differentiable optimization · optimal sensor placement · non-stationary covariance learning · robustness analysis
 
-[View Repository](https://github.com/Youssef-obr/nonstationary-ocean-sensor-placement)
-
+[View Repository](https://github.com/Youssef-obr/differentiable-ocean-sensing)
 ---
 
 ### Classical ML Surrogates for the 1D Burgers Equation
