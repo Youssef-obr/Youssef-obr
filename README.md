@@ -29,6 +29,7 @@ I’m a **second-year engineering student at IMT Atlantique** interested in **Ma
 **Research areas:** data assimilation · differentiable optimization · optimal sensor placement · non-stationary covariance learning · robustness analysis
 
 [View Repository](https://github.com/Youssef-obr/differentiable-ocean-sensing)
+
 ---
 
 ### Classical ML Surrogates for the 1D Burgers Equation
